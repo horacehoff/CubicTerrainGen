@@ -11,6 +11,10 @@ An Unreal Engine 5 project that generates minecraft-like terrain using sine wave
 - The whole system is written in Blueprint, which means terrain generation may take some time (usually ~15 seconds for a terrain with 500x500 blocks)
 - Since the project is using sine waves, terrain may become repetitive over size and have less features than a noise-generated terrain.
 
+**To-Do**:
+- Rewrite the entire system in C++
+- Find a way to have only one material for the grass and dirt (meaning only one instanced static mesh)
+
 ## 🏛️ License
 [MIT License](https://github.com/just-a-mango/CubicTerrainGen/blob/main/LICENSE)
 
