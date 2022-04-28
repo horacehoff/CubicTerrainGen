@@ -13,7 +13,8 @@ An Unreal Engine 5 project that generates minecraft-like terrain using sine wave
 
 **To-Do**:
 - Rewrite the entire system in C++
-- Find a way to have only one material for the grass and dirt (meaning only one instanced static mesh)
+- Use noise instead
+- Find a way to have only one material for the grass and dirt (meaning only one instanced static mesh, thus improving the performance)
 
 ## 🏛️ License
 [MIT License](https://github.com/just-a-mango/CubicTerrainGen/blob/main/LICENSE)
