@@ -1,6 +1,6 @@
 # CubicTerrainGen
 **You can get it for 2€ on Gumroad [here](https://justamango.gumroad.com/l/cubicterraingenerator)**\
-An Unreal Engine 5 project that generates minecraft-like terrain using sine waves and Blueprint\
+A **very very WIP** Unreal Engine 5 project that generates minecraft-like terrain using sine waves and Blueprint\
 **Features**:
 - Multiple terrain layers, meaning a more diverse terrain (the more terrain layers, the more diverse the terrain will be)
 - Fast iteration
